@@ -7,7 +7,7 @@ use strict;
 use warnings;
 
 # change these to suit your needs
-my $start_temp = 75; # it will heat bed to this temperature when print starts
+my $start_temp = 80; # it will heat bed to this temperature when print starts
 my $end_temp = 65; # this will be temperature at the print finish
 
 
